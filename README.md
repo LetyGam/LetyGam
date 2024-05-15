@@ -1,5 +1,5 @@
 
-![Demo](imagenes/Holaatodos.png)
+![Demo]
 
 # Soy Leticia Gamboa 👋✨
 

@@ -1,4 +1,16 @@
-### Hola a todos, soy Leticia Gamboa 👋✨
+
+![Demo](imagenes/Holaatodos.png)
+
+# Soy Leticia Gamboa 👋✨
+
+## Acerca de mi
+* **Licenciada en Administración de Empresas** con experiencia en contabilidad.
+
+* Estoy iniciándome en el mundo del desarrollo web con un curso de HTML y CSS. 🌱
+
+* Soy una persona amable y capaz de adaptarme a cada situación. Busco una oportunidad para demostrar mi compromiso y capacidad de trabajo y desarrollar mi carrera. Siempre he destacado por mi buena productividad y mi capacidad de aprender rápidamente.
+
+* En mi tiempo libre disfruto de actividades como leer, cocinar y salir a caminar en la naturaleza. También me interesa aprender sobre tecnología y desarrollo personal. ⚡
 
 
 

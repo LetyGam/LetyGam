@@ -16,7 +16,11 @@
 
 * En mi tiempo libre disfruto de actividades como leer, cocinar y salir a caminar en la naturaleza.
 
-* También me interesa aprender sobre tecnología y desarrollo personal. 📚🍴🌳🌸🚶 
+* También me interesa aprender sobre tecnología y desarrollo personal. 📚🍴🌳🌸🚶
+
+## Nuevos Proyectos
+
+* Por el momento mi proyecto es trabajar en mi: aprender cosas nuevas y diferentes que me saquen de mi zona de confort (como es el desarrollo web😆 por sugerencia de mi compañero de vida que es desarrollador😜😍) 
 
 ## Algunas Teconologias que uso:
 

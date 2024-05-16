@@ -6,7 +6,7 @@
 ## Acerca de mi
 * **Licenciada en Administración de Empresas** con experiencia en contabilidad. 📉📊
 
-* Recientemente termine un curso de Excel Avanzado y Actualmente estoy en curso de NIF2024
+* Recientemente termine un curso de Excel Avanzado y actualmente estoy en curso de NIF2024
 
 * Estoy iniciándome en el mundo del desarrollo web con un curso de HTML y CSS. 🌱💻
 

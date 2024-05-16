@@ -14,7 +14,9 @@
 
 ## Hobbies e intereses
 
-* En mi tiempo libre disfruto de actividades como leer, cocinar y salir a caminar en la naturaleza. También me interesa aprender sobre tecnología y desarrollo personal. 📚🍴🌳🌸🚶 
+* En mi tiempo libre disfruto de actividades como leer, cocinar y salir a caminar en la naturaleza.
+
+* También me interesa aprender sobre tecnología y desarrollo personal. 📚🍴🌳🌸🚶 
 
 ## Algunas Teconologias que uso:
 
